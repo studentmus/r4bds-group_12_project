@@ -1,9 +1,9 @@
-﻿# Project Contributors
-- StudentID — GitHubUsername
-- StudentID — GitHubUsername
-- StudentID — GitHubUsername
-- StudentID — GitHubUsername
-- StudentID — GitHubUsername
+Group09:
+Selina Friesen - s252027
+Marta Sanchez Sanchez - s254791
+Sergi Fornos - s253693
+Tommaso Ballocci - s257151
+Ivan Musalyk - s225210
 
 ## Project Overview
 This repository implements the required R4BDS project structure.
