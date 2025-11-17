@@ -1,0 +1,8 @@
+﻿---
+title: "00_all"
+format: html
+---
+
+```{r}
+# Master pipeline controller
+```

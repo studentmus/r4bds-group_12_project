@@ -1,0 +1,10 @@
+﻿---
+title: "02_clean"
+format: html
+---
+
+```{r}
+# Read data/01_dat_load.tsv
+# Clean and convert to tidy format
+# Save as data/02_dat_clean.tsv
+```

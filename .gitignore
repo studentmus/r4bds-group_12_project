@@ -1,0 +1,13 @@
+﻿# Raw data should not be version controlled
+data/_raw/*
+
+# R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto / HTML outputs (optional)
+*.html
+*.log
+*.aux

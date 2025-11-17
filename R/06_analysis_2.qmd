@@ -1,0 +1,9 @@
+﻿---
+title: "06_analysis_2"
+format: html
+---
+
+```{r}
+# Second main analysis
+# e.g. comparison between patient groups (mild vs severe vs healthy)
+```

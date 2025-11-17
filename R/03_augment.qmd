@@ -1,0 +1,10 @@
+﻿---
+title: "03_augment"
+format: html
+---
+
+```{r}
+# Read data/02_dat_clean.tsv
+# Add derived variables (e.g. immunodominant flag, ORF groups, etc.)
+# Save as data/03_dat_aug.tsv
+```

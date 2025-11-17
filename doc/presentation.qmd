@@ -1,0 +1,24 @@
+﻿---
+title: "Project Presentation"
+format: revealjs
+---
+
+# Title
+
+Short description of the project.
+
+# Data
+
+Explain the dataset and how you retrieved it.
+
+# Methods
+
+Brief overview of your pipeline.
+
+# Results
+
+Show key plots.
+
+# Conclusions
+
+Main biological and methodological takeaways.

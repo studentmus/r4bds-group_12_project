@@ -1,0 +1,9 @@
+﻿---
+title: "04_describe"
+format: html
+---
+
+```{r}
+# Read data/03_dat_aug.tsv
+# Descriptive statistics: counts per ORF, patient group, etc.
+```
