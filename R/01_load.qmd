@@ -3,7 +3,7 @@ title: "01_load"
 format: html
 ---
 ```{r}
-# Load raw data from data/_raw/raw_data.xlsx (or your actual file)
+# Load raw data from data/_raw/raw_data.xlsx (or your actual file) and such
 # Save combined data as data/01_dat_load.tsv
 ```
 
