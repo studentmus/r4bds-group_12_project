@@ -1,6 +1,6 @@
-﻿# Raw data should not be version controlled
+# Raw data should not be version controlled
 data/_raw/*
-
+data/*
 # R / RStudio
 .Rproj.user
 .Rhistory
